@@ -1,0 +1,36 @@
+fieldset {
+		background-color:lightyellow;
+		border-style: solid;
+		border-width: 10px;
+		border-color: yellow;
+		margin-bottom: 10px;
+		width:720px;
+}
+label {
+		width:180px;
+		display: inline-block;
+		text-align:right;
+		text-align:top;
+}
+textarea {
+	    width:360px;
+		height:50px;
+		
+}
+.leftstyle {
+	 text-align: center;
+	 background-color:red;
+	 color: white;
+	 display: inline-block;
+     width: 50px;
+	 padding: 2px;
+     
+}
+.rightstyle {
+	 text-align: center;
+	 background-color:purple;
+	 color: white;
+	 display: inline-block;
+     width: 50px;
+     padding: 2px;
+}
